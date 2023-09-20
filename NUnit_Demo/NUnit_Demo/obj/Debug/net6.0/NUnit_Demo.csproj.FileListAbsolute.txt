@@ -1,0 +1,24 @@
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.deps.json
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.pdb
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.csproj.AssemblyReference.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.AssemblyInfoInputs.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.AssemblyInfo.cs
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.csproj.CoreCompileInputs.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/refint/NUnit_Demo.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.pdb
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/ref/NUnit_Demo.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.deps.json
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.pdb
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.csproj.AssemblyReference.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.AssemblyInfoInputs.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.AssemblyInfo.cs
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.csproj.CoreCompileInputs.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/refint/NUnit_Demo.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.pdb
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/ref/NUnit_Demo.dll

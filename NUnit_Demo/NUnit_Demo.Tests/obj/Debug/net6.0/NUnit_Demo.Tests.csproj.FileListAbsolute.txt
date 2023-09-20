@@ -1,0 +1,203 @@
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/testhost.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/testhost.exe
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.engine.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.engine.api.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.engine.core.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.deps.json
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.runtimeconfig.json
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.pdb
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.framework.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.pdb
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.csproj.AssemblyReference.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.AssemblyInfoInputs.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.AssemblyInfo.cs
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.csproj.CoreCompileInputs.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.csproj.CopyComplete
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/refint/NUnit_Demo.Tests.dll
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.pdb
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.genruntimeconfig.cache
+C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/ref/NUnit_Demo.Tests.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit3.TestAdapter.pdb
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.engine.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.engine.api.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.engine.core.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/testcentric.engine.metadata.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.deps.json
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.runtimeconfig.json
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.Tests.pdb
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.TestPlatform.Utilities.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/testhost.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NuGet.Frameworks.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/nunit.framework.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/bin/Debug/net6.0/NUnit_Demo.pdb
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.csproj.AssemblyReference.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.AssemblyInfoInputs.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.AssemblyInfo.cs
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.csproj.CoreCompileInputs.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.csproj.CopyComplete
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/refint/NUnit_Demo.Tests.dll
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.pdb
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/NUnit_Demo.Tests.genruntimeconfig.cache
+/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/Debug/net6.0/ref/NUnit_Demo.Tests.dll
