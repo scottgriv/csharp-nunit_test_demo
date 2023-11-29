@@ -22,3 +22,15 @@ C:/Users/SG97069/OneDrive - Alleima/Desktop/csharp-nunit_test_demo/NUnit_Demo/NU
 /Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/refint/NUnit_Demo.dll
 /Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.pdb
 /Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/ref/NUnit_Demo.dll
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.deps.json
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.dll
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/bin/Debug/net6.0/NUnit_Demo.pdb
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.csproj.AssemblyReference.cache
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.AssemblyInfoInputs.cache
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.AssemblyInfo.cs
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.csproj.CoreCompileInputs.cache
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.dll
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/refint/NUnit_Demo.dll
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/NUnit_Demo.pdb
+/Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/Debug/net6.0/ref/NUnit_Demo.dll

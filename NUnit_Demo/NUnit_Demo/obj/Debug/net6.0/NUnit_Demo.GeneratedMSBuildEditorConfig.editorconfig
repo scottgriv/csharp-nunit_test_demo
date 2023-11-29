@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = NUnit_Demo
-build_property.ProjectDir = /Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/
+build_property.ProjectDir = /Users/scottgrivner/Documents/GitHub/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/
