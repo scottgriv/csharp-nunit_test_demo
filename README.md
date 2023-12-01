@@ -18,7 +18,7 @@
 
 ---------------
 
-<h1 align="center">NUnit Demo Application</h1>
+<h1 align="center">C# NUnit Demo Application</h1>
 
 This is a demo application for the Microsoft .NET Core `NUnit` unit testing framework.
 - It consists of two projects: `NUnitDemo` and `NUnitDemo.Tests`. 
