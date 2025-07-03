@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/NUnit_Demo.Tests.csproj": {}
+  },
+  "projects": {
+    "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/NUnit_Demo.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/NUnit_Demo.Tests.csproj",
+        "projectName": "NUnit_Demo.Tests",
+        "projectPath": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/NUnit_Demo.Tests.csproj",
+        "packagesPath": "/Users/scottgrivner/.nuget/packages/",
+        "outputPath": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/scottgrivner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/NUnit_Demo.csproj": {
+                "projectPath": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/NUnit_Demo.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/NUnit_Demo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/NUnit_Demo.csproj",
+        "projectName": "NUnit_Demo",
+        "projectPath": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/NUnit_Demo.csproj",
+        "packagesPath": "/Users/scottgrivner/.nuget/packages/",
+        "outputPath": "/Users/scottgrivner/Desktop/csharp-nunit_test_demo/NUnit_Demo/NUnit_Demo/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/scottgrivner/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
