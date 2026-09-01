@@ -54,3 +54,9 @@ Thumbs.db
 Icon?
 
 *Debug*
+NUnit_Demo/NUnit_Demo.Tests/obj/NUnit_Demo.Tests.csproj.nuget.dgspec.json
+NUnit_Demo/NUnit_Demo.Tests/obj/project.assets.json
+NUnit_Demo/NUnit_Demo.Tests/obj/project.nuget.cache
+NUnit_Demo/NUnit_Demo/obj/NUnit_Demo.csproj.nuget.dgspec.json
+NUnit_Demo/NUnit_Demo/obj/project.assets.json
+NUnit_Demo/NUnit_Demo/obj/project.nuget.cache
